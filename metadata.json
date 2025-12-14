@@ -1,0 +1,5 @@
+{
+  "name": "Polis.Ai",
+  "description": "A turn-based geopolitical simulation game where you lead a nation through history. The AI generates dynamic scenarios, tracks your country's statistics (Economy, Stability, Population), and determines the consequences of your decisions.",
+  "requestFramePermissions": []
+}
